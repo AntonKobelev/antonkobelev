@@ -1,4 +1,6 @@
-![Header](https://github.com/AntonKobelev/antonkobelev/blob/main/assets/background_new.gif)
+<p align="center">
+  <img src="https://github.com/AntonKobelev/antonkobelev/blob/main/assets/background_new.gif" alt="Header">
+</p>
 
 ## Привет👋 Меня зовут Антон!
 
