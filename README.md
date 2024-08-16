@@ -11,9 +11,29 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="https://vk.com/antonykobelev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=#0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/anton-kobelev-48449583" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/iamantonkobelev" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=x.com&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"" height="25" alt="X logo" />
+  </a>
+  <a href="https://www.facebook.com/share/gdBmS662KsFVw54d/?mibextid=qi2Omg" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
+  </a>
+  <a href="http://www.youtube.com/@user-kb9qn2bq2b" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YOUTUBE&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=antonkobelev.antonkobelev&"  />
+</div>
+
+###
 
 ### Языки и инструменты
 
