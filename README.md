@@ -29,13 +29,52 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=antonkobelev.antonkobelev&"  />
-</div>
+<h3 align="left">👩🏽‍💻  Обо мне</h3>
 
 ###
 
-### Языки и инструменты
+<p align="left">Начинающий Frontend разработчик с опытом работы и знаниями, накопленными с 2017 года. Уверенно владею HTML, CSS, JavaScript, и имею опыт создания адаптивных интерфейсов. Также есть опыт разработки мобильных приложений 📱📶🌏. Мои ключевые качества: умение решать поставленные задачи, внимание к деталям и стремление к постоянному развитию в области веб-разработки.
+
+- 💥 Завершил курс по веб-разработке Udemy<br>
+- 🤝 в 2023 году принял участие в хакатоне, организованным Result School<br>
+- ⚡ Являюсь автором 22 программ на ЭВМ</p>
+
+###
+
+📚 Мое обучение включало следующие курсы:
+
+<table>
+  <tr>
+    <td>  
+      <ul>
+        <li>🎯 Программирование на Python - Stepic.org (2017)</li>
+        <li>🌐 HTML Fundamentals course - SoloLearn (2017)</li>
+        <li>📊 SQL Fundamentals course - SoloLearn (2018)</li>
+        <li>🐍 Python 3 Tutorial course - SoloLearn (2018)</li>
+        <li>💻 JQuery Tutorial course - SoloLearn (2018)</li>
+        <li>☕ Java Tutorial course - SoloLearn (2018)</li>
+        <li>📱 Изучение Java, Android и библиотек - ITProger (2018)</li>
+      </ul>
+    </td>
+    <td>  
+      <ul>
+      <li>🔧 Python 3 - разработка GUI на PyQt5 - Udemy (2021)</li>
+      <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
+        <li>🚀 HTML5 - MIMO (2024)</li>
+        <li>🎨 CSS - MIMO (2024)</li>
+        <li>📜 JavaScript - MIMO (2024)</li>
+        <li>🔤 TypeScript - MIMO (2024)</li>
+        <li>🔎 SQL - MIMO (2024)</li>
+        <li>🖥️ Front-End Developer - MIMO (2024)</li>
+        <li>🌐 Full-stack developer - MIMO (2024)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+В данный момент завершаю прохождение курсов 🚀The Ultimate React Course: React, Redux & More (Jonas Schmedtmann, Udemy), Полный курс по современному 🔠TypeScript (Иван Петриченко, Udemy).
+
+### 🔨 Языки и инструменты
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,3 +95,28 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </p>
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+<h3 align="left">🔥   Моя статистика :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=antonkobelev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antonkobelev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonkobelev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
