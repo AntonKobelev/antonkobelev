@@ -1,3 +1,11 @@
+<style>
+  table ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+  }
+</style>
+
 <p align="center">
   <img src="https://github.com/AntonKobelev/antonkobelev/blob/main/assets/background_new.gif" alt="Header">
 </p>
@@ -46,7 +54,7 @@
 <table>
   <tr>
     <td>  
-      <ul style="list-style-type: none !important; padding-left: 0 !important; margin: 0 !important;">
+      <ul>
         <li>🎯 Программирование на Python - Stepic.org (2017)</li>
         <li>🌐 HTML Fundamentals course - SoloLearn (2017)</li>
         <li>📊 SQL Fundamentals course - SoloLearn (2018)</li>
@@ -58,7 +66,7 @@
       </ul>
     </td>
     <td>  
-      <ul style="list-style-type: none !important; padding-left: 0 !important; margin: 0 !important;">
+      <ul>
       <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
         <li>🚀 HTML5 - MIMO (2024)</li>
         <li>🎨 CSS - MIMO (2024)</li>
