@@ -7,10 +7,10 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/iamantonkobelev" target="blank" style="text-decoration: none; border: none;">
+  <a href="https://t.me/iamantonkobelev" target="blank" style="text-decoration: none; display: inline-block; line-height: 0;">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://vk.com/antonykobelev" target="blank" style="text-decoration: none; border: none;">
+  <a href="https://vk.com/antonykobelev" target="blank" style="text-decoration: none; display: inline-block; line-height: 0;">
   <img src="https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo" />
   </a>
   <a href="https://www.linkedin.com/in/anton-kobelev-48449583" target="blank" style="text-decoration: none; border: none;">
