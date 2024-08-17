@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>  
-      <ul>
+      <ul style="list-style-type: none;">
         <li>🎯 Программирование на Python - Stepic.org (2017)</li>
         <li>🌐 HTML Fundamentals course - SoloLearn (2017)</li>
         <li>📊 SQL Fundamentals course - SoloLearn (2018)</li>
@@ -55,11 +55,11 @@
         <li>☕ Java Tutorial course - SoloLearn (2018)</li>
         <li>📱 Изучение Java, Android и библиотек - ITProger (2018)</li>
         <li>🔧 Python 3 - разработка GUI на PyQt5 - Udemy (2021)</li>
-        <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
       </ul>
     </td>
     <td>  
-      <ul>
+      <ul style="list-style-type: none;">
+      <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
         <li>🚀 HTML5 - MIMO (2024)</li>
         <li>🎨 CSS - MIMO (2024)</li>
         <li>📜 JavaScript - MIMO (2024)</li>
@@ -106,15 +106,15 @@
 
 ###
 
-<div align="center" style = "width:100%; display: grid; grid-template-columns: 1fr; gap: 20px;">
-  <img src="https://streak-stats.demolab.com?user=antonkobelev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style = "width:100%" />
-  <br/>
-  <br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=antonkobelev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-   <img src="https://github-readme-stats.vercel.app/api?username=antonkobelev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph" style = "width:100%" />
-   <br/>
-  <br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonkobelev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph" style = "width:100%" />
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antonkobelev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonkobelev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
