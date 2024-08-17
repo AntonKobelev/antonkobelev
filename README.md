@@ -1,8 +1,8 @@
+## Привет👋 Меня зовут Антон!
+
 <p align="center">
   <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Header">
 </p>
-
-## Привет👋 Меня зовут Антон!
 
 ###
 
