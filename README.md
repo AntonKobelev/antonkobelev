@@ -17,26 +17,26 @@
   <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://x.com/iamantonkobelev" target="_blank" style="text-decoration: none">
-  <img src="https://img.shields.io/static/v1?message=x.com&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"" height="25" alt="X logo" />
+  <img src="https://img.shields.io/static/v1?message=x.com&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
   </a>
   <a href="https://www.facebook.com/share/gdBmS662KsFVw54d/?mibextid=qi2Omg" target="_blank" style="text-decoration: none">
   <img src="https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
   <a href="http://www.youtube.com/@user-kb9qn2bq2b" target="_blank" style="text-decoration: none">
-  <img src="https://img.shields.io/static/v1?message=YOUTUBE&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
+  <img src="https://img.shields.io/static/v1?message=YOUTUBE&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="You tube logo" />
   </a>
 </div>
 
 ###
 
-<h3 align="left">👩🏽‍💻  Обо мне</h3>
+<h3 align="left">👨‍💻  Обо мне</h3>
 
 ###
 
 <p align="left">Начинающий Frontend разработчик с опытом работы и знаниями, накопленными с 2017 года. Уверенно владею HTML, CSS, JavaScript, и имею опыт создания адаптивных интерфейсов. Также есть опыт разработки мобильных приложений 📱📶🌏. Мои ключевые качества: умение решать поставленные задачи, внимание к деталям и стремление к постоянному развитию в области веб-разработки.
 
-💥 Завершил курс по веб-разработке Udemy<br>
-🤝 в 2023 году принял участие в хакатоне, организованным Result School<br>
+💥 Завершил курс по веб-разработке на Udemy.<br>
+🤝 В 2023 году участвовал в хакатоне, организованном Result School.<br>
 ⚡ Являюсь автором 22 программ на ЭВМ</p>
 
 ###
@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>  
-      <ul style="list-style-type: none">
+      <ul style="list-style-type: none; padding-left: 0;">
         <li>🎯 Программирование на Python - Stepic.org (2017)</li>
         <li>🌐 HTML Fundamentals course - SoloLearn (2017)</li>
         <li>📊 SQL Fundamentals course - SoloLearn (2018)</li>
@@ -58,7 +58,7 @@
       </ul>
     </td>
     <td>  
-      <ul style="list-style-type: none">
+      <ul style="list-style-type: none; padding-left: 0;">
       <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
         <li>🚀 HTML5 - MIMO (2024)</li>
         <li>🎨 CSS - MIMO (2024)</li>
