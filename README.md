@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>  
-      <ul style="list-style-type: none !important; padding-left: 0;">
+      <ul style="list-style-type: none !important; padding-left: 0 !important; margin: 0 !important;">
         <li>🎯 Программирование на Python - Stepic.org (2017)</li>
         <li>🌐 HTML Fundamentals course - SoloLearn (2017)</li>
         <li>📊 SQL Fundamentals course - SoloLearn (2018)</li>
@@ -58,7 +58,7 @@
       </ul>
     </td>
     <td>  
-      <ul style="list-style-type: none !important; padding-left: 0;">
+      <ul style="list-style-type: none !important; padding-left: 0 !important; margin: 0 !important;">
       <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
         <li>🚀 HTML5 - MIMO (2024)</li>
         <li>🎨 CSS - MIMO (2024)</li>
