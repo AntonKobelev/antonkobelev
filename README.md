@@ -7,22 +7,22 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/iamantonkobelev" target="_blank">
+  <a href="https://t.me/iamantonkobelev" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://vk.com/antonykobelev" target="_blank">
+  <a href="https://vk.com/antonykobelev" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo" />
   </a>
-  <a href="https://www.linkedin.com/in/anton-kobelev-48449583" target="_blank">
+  <a href="https://www.linkedin.com/in/anton-kobelev-48449583" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/iamantonkobelev" target="_blank">
+  <a href="https://x.com/iamantonkobelev" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/static/v1?message=x.com&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"" height="25" alt="X logo" />
   </a>
-  <a href="https://www.facebook.com/share/gdBmS662KsFVw54d/?mibextid=qi2Omg" target="_blank">
+  <a href="https://www.facebook.com/share/gdBmS662KsFVw54d/?mibextid=qi2Omg" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
-  <a href="http://www.youtube.com/@user-kb9qn2bq2b" target="_blank">
+  <a href="http://www.youtube.com/@user-kb9qn2bq2b" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/static/v1?message=YOUTUBE&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
 </div>
@@ -54,12 +54,12 @@
         <li>💻 JQuery Tutorial course - SoloLearn (2018)</li>
         <li>☕ Java Tutorial course - SoloLearn (2018)</li>
         <li>📱 Изучение Java, Android и библиотек - ITProger (2018)</li>
+        <li>🔧 Python 3 - разработка GUI на PyQt5 - Udemy (2021)</li>
+        <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
       </ul>
     </td>
     <td>  
       <ul>
-      <li>🔧 Python 3 - разработка GUI на PyQt5 - Udemy (2021)</li>
-      <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
         <li>🚀 HTML5 - MIMO (2024)</li>
         <li>🎨 CSS - MIMO (2024)</li>
         <li>📜 JavaScript - MIMO (2024)</li>
@@ -106,17 +106,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=antonkobelev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonkobelev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="center" style = "width:100%; display: grid; grid-template-columns: 1fr; gap: 20px;">
+  <img src="https://streak-stats.demolab.com?user=antonkobelev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style = "width:100%" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonkobelev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+   <img src="https://github-readme-stats.vercel.app/api?username=antonkobelev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph" style = "width:100%" />
+   <br/>
+  <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonkobelev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph" style = "width:100%" />
 </div>
 
 ###
