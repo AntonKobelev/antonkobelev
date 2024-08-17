@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AntonKobelev/antonkobelev/blob/main/assets/background_new.gif" alt="Header">
+  <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Header">
 </p>
 
 ## Привет👋 Меня зовут Антон!
