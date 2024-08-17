@@ -1,11 +1,3 @@
-<style>
-  table ul {
-    list-style-type: none;
-    padding-left: 0;
-    margin: 0;
-  }
-</style>
-
 <p align="center">
   <img src="https://github.com/AntonKobelev/antonkobelev/blob/main/assets/background_new.gif" alt="Header">
 </p>
