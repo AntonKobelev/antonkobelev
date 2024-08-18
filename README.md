@@ -46,27 +46,28 @@
 
 📚 Мое обучение включало следующие курсы:
 
-<div style="padding-left: 0;">
-  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-    <li>🎯 Программирование на Python - Stepic.org (2017)</li>
-    <li>🌐 HTML Fundamentals course - SoloLearn (2017)</li>
-    <li>📊 SQL Fundamentals course - SoloLearn (2018)</li>
-    <li>🐍 Python 3 Tutorial course - SoloLearn (2018)</li>
-    <li>💻 JQuery Tutorial course - SoloLearn (2018)</li>
-    <li>☕ Java Tutorial course - SoloLearn (2018)</li>
-    <li>📱 Изучение Java, Android и библиотек - ITProger (2018)</li>
-    <li>🔧 Python 3 - разработка GUI на PyQt5 - Udemy (2021)</li>
-  </ul>
-  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-    <li>💼 WEB-разработчик 2022 - Udemy (2022)</li>
-    <li>🚀 HTML5 - MIMO (2024)</li>
-    <li>🎨 CSS - MIMO (2024)</li>
-    <li>📜 JavaScript - MIMO (2024)</li>
-    <li>🔤 TypeScript - MIMO (2024)</li>
-    <li>🔎 SQL - MIMO (2024)</li>
-    <li>🖥️ Front-End Developer - MIMO (2024)</li>
-    <li>🌐 Full-stack developer - MIMO (2024)</li>
-  </ul>
+<div style= "display: flex">
+  <div>
+  🎯 Программирование на Python - Stepic.org (2017)<br/>
+  🌐 HTML Fundamentals course - SoloLearn (2017)<br/>
+  📊 SQL Fundamentals course - SoloLearn (2018)<br/>
+  🐍 Python 3 Tutorial course - SoloLearn (2018)<br/>
+  💻 JQuery Tutorial course - SoloLearn (2018)<br/>
+  ☕ Java Tutorial course - SoloLearn (2018)<br/>
+  📱 Изучение Java, Android и библиотек - ITProger (2018)<br/>
+  🔧 Python 3 - разработка GUI на PyQt5 - Udemy (2021)<br/>
+  </div>
+  <div>
+  🎯 💼 WEB-разработчик 2022 - Udemy (2022)<br/>
+  🚀 HTML5 - MIMO (2024)<br/>
+  🎨 CSS - MIMO (2024)<br/>
+  📜 JavaScript - MIMO (2024)<br/>
+  🔤 TypeScript - MIMO (2024)<br/>
+  🔎 SQL - MIMO (2024)<br/>
+  🖥️ Front-End Developer - MIMO (2024)<br/>
+  🌐 Full-stack developer - MIMO (2024)<br/>
+  </div>
+
 </div>
 
 ###
