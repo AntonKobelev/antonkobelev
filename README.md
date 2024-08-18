@@ -89,13 +89,31 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h2 align="center">🔥 Моя статистика :</h2>
+
+###
+
+<h3 align="center">Codewars Profile Badges</h3>
 
 ###
 
 <div align="center">
+
+[![codewars](https://www.codewars.com/users/AntonKobelev/badges/large)](https://www.codewars.com/users/AntonKobelev)
+
+</div>
+
+###
+
+<h3 align="center">Longest streak stats</h3>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=antonkobelev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="center">GitHub Stats Card & Top Languages Card</h3>
 
 ###
 
