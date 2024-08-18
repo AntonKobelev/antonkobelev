@@ -7,29 +7,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://t.me/iamantonkobelev" target="blank" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-
-  <a href="https://t.me/iamantonkobelev" target="blank" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo" />
-  </a>
-
-  <a href="https://t.me/iamantonkobelev" target="blank" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-
-  <a href="https://x.com/iamantonkobelev" target="blank" style="text-decoration: none; border: none;">
-  <img src="https://img.shields.io/static/v1?message=x.com&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
-  </a>
-  <a href="https://www.facebook.com/share/gdBmS662KsFVw54d/?mibextid=qi2Omg" target="blank" style="text-decoration: none; border: none;">
-  <img src="https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
-  </a>
-  <a href="http://www.youtube.com/@user-kb9qn2bq2b" target="blank" style="text-decoration: none; border: none;">
-  <img src="https://img.shields.io/static/v1?message=YOUTUBE&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="You tube logo" />
-  </a>
-</div>
+[![TG](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/iamantonkobelev) [![VK](https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge)](https://vk.com/antonykobelev) [![LN](https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/anton-kobelev-48449583) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iamantonkobelev) [![FB](https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/share/gdBmS662KsFVw54d)
 
 ###
 
@@ -85,8 +63,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
