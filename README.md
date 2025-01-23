@@ -1,4 +1,4 @@
-<h2 align="center" >Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Антон</a> 
+<h2 align="center" >Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Антон Кобелев</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 <p align="center">
@@ -23,9 +23,9 @@
 
 ###
 
-<p align="left">Frontend-разработчик / Разработчик мобильных приложений с опытом работы и знаниями, накопленными с 2017 года. У меня есть опыт работы с такими технологиями, как Java, HTML, CSS (включая препроцессоры), JavaScript, TypeScript, React, Python, PHP, SQL и другие современные инструменты разработки. Мои ключевые качества: умение решать поставленные задачи, внимание к деталям и стремление к постоянному развитию.
+<p align="left">Разработчик с опытом работы и знаниями, накопленными с 2017 года. У меня есть опыт работы с такими технологиями, как Java, HTML, CSS (включая препроцессоры), JavaScript, TypeScript, React, Python, PHP, MySQL и другие современные инструменты разработки. Мои ключевые качества: умение решать поставленные задачи, внимание к деталям и стремление к постоянному развитию.
 
-💥 Разработка веб-приложений на JavaScript, HTML, CSS <br>
+💥 Разработка веб-приложений на Java, JavaScript, HTML, CSS <br>
 🤝 Участие в хакатонах и командных проектах, в 2023 году наша команда заняла 3-е место 🏆 в хакатоне от Result School <br>
 📱 Разработка мобильных приложений на Java <br>
 🐍 Разработка приложений на Python <br>
@@ -54,10 +54,6 @@
   🖥️ Front-End Developer - MIMO (2024)<br/>
   🌐 Full-stack developer - MIMO (2024)<br/>
 </div>
-
-###
-
-В данный момент завершаю прохождение курсов 🚀The Ultimate React Course: React, Redux & More (Jonas Schmedtmann, Udemy), Полный курс по современному 🔠TypeScript (Иван Петриченко, Udemy).
 
 ### 🔨 Языки и инструменты
 
