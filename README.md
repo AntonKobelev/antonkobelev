@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Разработчик с опытом работы и знаниями, накопленными с 2017 года. У меня есть опыт работы с такими технологиями, как Java, HTML, CSS (включая препроцессоры), JavaScript, TypeScript, React, Python, PHP, MySQL и другие современные инструменты разработки. Мои ключевые качества: умение решать поставленные задачи, внимание к деталям и стремление к постоянному развитию.
+<p align="left">Разработчик с опытом работы и знаниями, накопленными с 2017 года. У меня есть опыт работы с такими технологиями, как Java, HTML, CSS, JavaScript, TypeScript, React, Python, PHP, MySQL и другие современные инструменты разработки. Мои ключевые качества: умение решать поставленные задачи, внимание к деталям и стремление к постоянному развитию.
 
 💥 Разработка веб-приложений на Java, JavaScript, HTML, CSS <br>
 🤝 Участие в хакатонах и командных проектах, в 2023 году наша команда заняла 3-е место 🏆 в хакатоне от Result School <br>
@@ -34,26 +34,7 @@
 
 ###
 
-📚 Мое обучение включало следующие курсы:
 
-<div>
-  🎯 Программирование на Python - Stepic.org (2017)<br/>
-  🌐 HTML Fundamentals course - SoloLearn (2017)<br/>
-  📊 SQL Fundamentals course - SoloLearn (2018)<br/>
-  🐍 Python 3 Tutorial course - SoloLearn (2018)<br/>
-  💻 JQuery Tutorial course - SoloLearn (2018)<br/>
-  ☕ Java Tutorial course - SoloLearn (2018)<br/>
-  📱 Изучение Java, Android и библиотек - ITProger (2018)<br/>
-  🔧 Python 3 - разработка GUI на PyQt5 - Udemy (2021)<br/>
-  💼 WEB-разработчик 2022 - Udemy (2022)<br/>
-  🚀 HTML5 - MIMO (2024)<br/>
-  🎨 CSS - MIMO (2024)<br/>
-  📜 JavaScript - MIMO (2024)<br/>
-  🔤 TypeScript - MIMO (2024)<br/>
-  🔎 SQL - MIMO (2024)<br/>
-  🖥️ Front-End Developer - MIMO (2024)<br/>
-  🌐 Full-stack developer - MIMO (2024)<br/>
-</div>
 
 ### 🔨 Языки и инструменты
 
