@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 <p align="center">
-  <img src="./Antony.gif" alt="Header" width="66.67%">
+  <img src="./Antony.gif" alt="Header" width="40%">
 </p>
 
 ###
