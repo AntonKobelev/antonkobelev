@@ -1,10 +1,6 @@
 <h2 align="center" >Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Антон Кобелев</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
-<p align="center">
-  <img src="./Antony.gif" alt="Header" width="40%">
-</p>
-
 ###
 
 <div align="center">
