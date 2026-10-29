@@ -3,18 +3,6 @@
 
 ###
 
-<div align="center">
-
-[![TG](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/iamantonkobelev)
-[![VK](https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge)](https://vk.com/antonykobelev)
-[![LN](https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/anton-kobelev-48449583)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iamantonkobelev)
-[![FB](https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/share/gdBmS662KsFVw54d)
-
-</div>
-
-###
-
 <h3 align="left">👨‍💻  Обо мне</h3>
 
 ###
@@ -30,6 +18,16 @@
 
 ###
 
+### 🌐 Мои соцсети
+<div align="center">
+
+[![TG](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/iamantonkobelev)
+[![VK](https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge)](https://vk.com/antonykobelev)
+[![LN](https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/anton-kobelev-48449583)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iamantonkobelev)
+[![FB](https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/share/gdBmS662KsFVw54d)
+
+</div>
 
 
 ### 🔨 Языки и инструменты
